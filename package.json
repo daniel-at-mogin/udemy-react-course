@@ -1,4 +1,9 @@
 {
-  "name": "my-monorepo",
+  "name": "udemy-react-course",
+  "workspaces": [
+    "project-1",
+    "project-2",
+    "project-0"
+  ],
   "packageManager": "yarn@4.2.2"
 }
