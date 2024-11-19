@@ -1,24 +1,24 @@
 {
-    "name": "javascript-refresher-start",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.html",
-    "scripts": {
-        "start": "parcel index.html --open",
-        "build": "parcel build index.html"
-    },
-    "dependencies": {
-        "parcel-bundler": "^1.12.5"
-    },
-    "devDependencies": {
-        "@babel/core": "^7.25.2",
-        "typescript": "^5.5.4"
-    },
-    "resolutions": {
-        "@babel/preset-env": "7.13.8"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "packageManager": "yarn@4.2.2+sha512.c44e283c54e02de9d1da8687025b030078c1b9648d2895a65aab8e64225bfb7becba87e1809fc0b4b6778bbd47a1e2ab6ac647de4c5e383a53a7c17db6c3ff4b"
+  "name": "project-0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "typescript": "^5.5.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "yarn@4.2.2+sha512.c44e283c54e02de9d1da8687025b030078c1b9648d2895a65aab8e64225bfb7becba87e1809fc0b4b6778bbd47a1e2ab6ac647de4c5e383a53a7c17db6c3ff4b"
 }
